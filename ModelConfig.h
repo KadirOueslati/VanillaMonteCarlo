@@ -2,7 +2,7 @@
 #define MODELCONFIG_H
 
 /*
-Struct containing the parameters of the underlying modelisation
+Helper Struct containing the parameters of the underlying modelisation
 */
 
 struct ModelConfig
