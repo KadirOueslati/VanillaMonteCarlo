@@ -1,6 +1,10 @@
 #ifndef MODELCONFIG_H
 #define MODELCONFIG_H
 
+/*
+Struct containing the parameters of the underlying modelisation
+*/
+
 struct ModelConfig
 {
         int     dimension{1};     // Indicates the number of double we dinamically allocate for volatilities, starting values,...
