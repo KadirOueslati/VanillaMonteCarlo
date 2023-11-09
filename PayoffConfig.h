@@ -1,6 +1,10 @@
 #ifndef PAYOFFCONFIG_H
 #define PAYOFFCONFIG_H
 
+/*
+Heleper Struct containing the parameters of the payoff
+*/
+
 struct PayoffConfig
 {
     double  T{0};             // Maturity of the payoff
