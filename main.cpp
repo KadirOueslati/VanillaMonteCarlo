@@ -14,7 +14,6 @@
 #include "PayoffConfig.h"
 #include "PutVanilla.h"
 #include "Random.h"
-//#include "Timer.h"
 
 struct mainConfig{
         int     dimension{1};     // Indicates the number of double we dinamically allocate for volatilities, starting values,...
